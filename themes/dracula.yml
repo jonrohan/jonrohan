@@ -1,0 +1,16 @@
+# Dracula theme
+# https://draculatheme.com/
+
+background: #282A36 
+foreground: #44475A
+
+text:
+  primary: #44475A
+  secondary: #8BE9FD
+  tertiary: #6272A4
+  
+text:
+  primary: #FFFFFF
+  secondary: #50FA7B
+  tertiary: #FF5555
+  
